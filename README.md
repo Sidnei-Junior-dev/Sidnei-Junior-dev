@@ -11,6 +11,7 @@ Me chamo Junior e estou estudando programação front-end e back-end.
 
 ### Projetos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sidnei-Junior-dev&repo=projeto_login&theme=dark)](https://github.com/Sidnei-Junior-dev/projeto_login)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sidnei-Junior-dev&repo=Projeto-Android&theme=dark)](https://github.com/Sidnei-Junior-dev/Projeto-Android)
 
 ### Contatos
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/sidnei-junior-dev/)
