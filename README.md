@@ -2,6 +2,7 @@
 
 ###### Sobre mim
 Me chamo Junior e estou estudando programação front-end e back-end.
+
 Aprendendo com CursoemVideo, Estudonauta e EBAC. 
 
 ### Detalhes
